@@ -1,0 +1,83 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "db_name": "hotels",
+    "user": "hotels_manager",
+    "password": "100500"
+  },
+  "locale": "en",
+  "parsers": {
+    "json": {
+      "fields_mapping": {
+        "id": "$.id",
+        "name": "$.%loc.name",
+        "photos": {
+          "in": "$.images",
+          "key": "url"
+        },
+        "description": "$.%loc.description",
+        "url": "$.hotelpage",
+        "location": {
+          "lat": "$.latitude",
+          "lon": "$.longitude",
+          "country_code": "$.country_code",
+          "city": "$.%loc.city",
+          "country": "$.%loc.country",
+          "address": "$.%loc.address"
+        },
+        "stars": {
+          "key": "$.star_rating",
+          "calc_type": "/",
+          "factor": 10.0
+        }
+      }
+    },
+    "csv": {
+      "fields_mapping": {
+        "id": "hotel_id",
+        "name": "hotel_name",
+        "photos": {
+          "key": "photo*"
+        },
+        "description": "overview",
+        "url": "url",
+        "location": {
+          "lat": "latitude",
+          "lon": "longitude",
+          "country_code": "countryisocode",
+          "city": "city",
+          "country": "country",
+          "address": "addressline1"
+        },
+        "stars": {
+          "key": "star_rating"
+        }
+      }
+    },
+    "xml": {
+      "in": "hotel",
+      "fields_mapping": {
+        "id": "/id",
+        "name": "/name",
+        "photos": {
+          "in": "photos",
+          "key": "url"
+        },
+        "description": "/descriptions/%loc",
+        "url": "",
+        "location": {
+          "lat": "/latitude",
+          "lon": "/longitude",
+          "country_code": "/countrytwocharcode",
+          "city": "/city/%loc",
+          "country": "/country/%loc",
+          "address": "/address"
+        },
+        "stars": {
+          "key": "/stars"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+    <hotel>
+        <id>1</id>
+        <name><![CDATA[Hotel Confort]]></name>
+        <address><![CDATA[Catalunya, 25 - Pas de la Casa]]></address>
+        <city>
+            <en><![CDATA[Pas de la Casa]]></en>
+            <fr><![CDATA[Pas de la Casa]]></fr>
+            <de><![CDATA[Pas de la Casa]]></de>
+            <es><![CDATA[Pas de la Casa]]></es>
+            <it><![CDATA[Pas de la Casa]]></it>
+            <nl><![CDATA[Pas de la Casa]]></nl>
+        </city>
+        <country>
+            <en><![CDATA[Andorra]]></en>
+            <fr><![CDATA[Andorre]]></fr>
+            <de><![CDATA[Andorra]]></de>
+            <es><![CDATA[Andorra]]></es>
+            <it><![CDATA[Andorra]]></it>
+            <nl><![CDATA[Andorra]]></nl>
+        </country>
+        <cityid>10313</cityid>
+        <statename/>
+        <countryid>1</countryid>
+        <countrytwocharcode>AD</countrytwocharcode>
+        <postcode>AD200</postcode>
+        <longitude>1.7322892</longitude>
+        <latitude>42.5421102</latitude>
+        <stars>1</stars>
+        <phone>-</phone>
+        <fax/>
+        <thumbnail><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//2-70x70.jpg]]></thumbnail>
+        <photos>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//2-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//3-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//4-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//5-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//6-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//7-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//8-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/1//9-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+        </photos>
+        <descriptions>
+            <en>
+                <![CDATA[[hotel-description]Given its city-centre location, the CONFORT HOTEL, EL PAS is the perfect starting point for a visit to PAS DE LA CASA. It's rooms offer the features and services needed to ensure that customers have a comfortable stay.[/hotel-description][room-description]The inviting rooms include an en suite bathroom, a direct dial telephone, a hire safe and central heating.[/room-description][additional-description]Guests are able to select their breakfast from a buffet.[/additional-description][location]This hotel is situated at the heart of Andorra in the small resort of Pas de la Casa, a town located on the border with France. The hotel affords breathtaking views over the mountains. The ski slopes of Grandvalira are a few minutes drive away.[/location]]]></en>
+            <fr>
+                <![CDATA[[hotel-description]Le CONFORT HOTEL, EL PAS se dresse en plein c¿ur de PAS DE LA CASA et représente sans aucun doute la meilleure option pour explorer ses rues. Ses chambres offrent au client un cadre fonctionnel et agréable. [/hotel-description][room-description]Les chambres agréables disposent d'une salle de bain avec WC. L'équipement comprend aussi une ligne téléphonique directe, un coffre-fort à louer et le chauffage central.[/room-description][additional-description]Les clients peuvent composer leur petit-déjeuner au buffet.[/additional-description][location]L'hôtel se trouve en Andorre, dans la petite localité du Pas de la Case, à la frontière française. L'hôtel offre une vue inoubliable sur les montagnes. Le domaine skiable Grandvalira est accessible en quelques minutes de trajet en voiture.[/location]]]></fr>
+            <de>
+                <![CDATA[[hotel-description]Im mitten im Stadtzentrum gelegenen CONFORT HOTEL, EL PAS geben sich Komfort und Funktionalität die Hand, um die Bedürfnisse des modernen Reisenden zu befriedigen. Seine Zimmersind perfekt für richtiges Ausruhen nach einem Tag voller Aktivität.[/hotel-description][room-description]Die freundlich eingerichteten Zimmer des Hotels verfügen jeweils über ein privates Bad/WC. Zur Ausstattung gehören ein Direktwahltelefon, ein Mietsafe und eine Zentralheizung.[/room-description][additional-description]Die Gäste können sich ihr Frühstück an einem Buffet zusammenstellen.[/additional-description][location]Das Hotel befindet sich im Herzen von Andorra, in der kleinen Ortschaft Pas de la Casa, einem Übergangsort in das benachbarte Frankreich. Das Hotel bietet Besuchern einen unvergleichlichen Blick auf die Berge. Das Skigebiet Grandvalira ist in einigen Minuten Fahrzeit zu erreichen.[/location]]]></de>
+            <es>
+                <![CDATA[[hotel-description]Este céntrico hotel permite desde su estupenda ubicación, disfrutar en sus alrededores de los lugares con más encanto de PAS DE LA CASA. Sus habitaciones proporcionan a los clientes un entorno funcional y agradable.[/hotel-description][room-description]Las acogedoras habitaciones disponen de un cuarto de baño. Además, cuentan con un teléfono de línea directa, calefacción central y una caja fuerte de alquiler.[/room-description][additional-description]Por las mañanas se ofrece desayuno en forma de bufet.[/additional-description][location]Este hotel se encuentra en el corazón de Andorra, en la pequeña localidad de Pas de la Casa, una ciudad de paso a Francia. Desde el hotel disfrutará de unas vistas maravillosas de las montañas. La estación de esquí de Grandvalira se encuentra a pocos minutos en coche.[/location]]]></es>
+            <it>
+                <![CDATA[[hotel-description]Nel CONFORT HOTEL, EL PAS, posizionato nel pieno centro urbano, si danno la mano comfort e funzionalità messi al servizio delle necessità dell'ospite attuale. Le sue camere dispongono delle prestazioni e servizi necessari affinchè i clienti approfittino di un comodo soggiorno.[/hotel-description][room-description]Le camere sono accoglienti e dispongono di bagno/WC privato, telefono con linea diretta, cassetta di sicurezza a pagamento e riscaldamento centralizzato.[/room-description][additional-description]La colazione viene servita a buffet.[/additional-description][location]Ubicato nel cuore di Andorra, nella piccola località di Pas de la Casa, al confine con la Francia, questo hotel gode di un'incantevole vista sulle montagne. Bastano pochi minuti di viaggio per raggiungere la località sciistica di Grandvalira.[/location]]]></it>
+            <nl><![CDATA[]]></nl>
+        </descriptions>
+        <amenities>
+            <en><![CDATA[Disabled facilities]]></en>
+            <fr><![CDATA[Equipements pour personnes à mobilité réduite]]></fr>
+            <de><![CDATA[Behindertengerechte Einrichtung]]></de>
+            <es><![CDATA[Accesible para minusválidos]]></es>
+            <it><![CDATA[Servizi per disabili]]></it>
+            <nl><![CDATA[Voorzieningen voor gehandicapten]]></nl>
+        </amenities>
+    </hotel>
+    <hotel>
+        <id>2</id>
+        <name><![CDATA[Hotansa Hotel Himalaya Soldeu]]></name>
+        <address><![CDATA[Crta.Canillo, Ctra. de la Vall d'Incles - Soldeu]]></address>
+        <city>
+            <en><![CDATA[Soldeu]]></en>
+            <fr><![CDATA[Soldeu]]></fr>
+            <de><![CDATA[Soldeu]]></de>
+            <es><![CDATA[Soldeu]]></es>
+            <it><![CDATA[Soldeu]]></it>
+            <nl><![CDATA[Soldeu]]></nl>
+        </city>
+        <country>
+            <en><![CDATA[Andorra]]></en>
+            <fr><![CDATA[Andorre]]></fr>
+            <de><![CDATA[Andorra]]></de>
+            <es><![CDATA[Andorra]]></es>
+            <it><![CDATA[Andorra]]></it>
+            <nl><![CDATA[Andorra]]></nl>
+        </country>
+        <cityid>10308</cityid>
+        <statename/>
+        <countryid>1</countryid>
+        <countrytwocharcode>AD</countrytwocharcode>
+        <postcode>AD100</postcode>
+        <longitude>1.66716</longitude>
+        <latitude>42.576957</latitude>
+        <stars>4</stars>
+        <phone>878 515</phone>
+        <fax>878 525</fax>
+        <thumbnail><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//0-70x70.jpg]]></thumbnail>
+        <photos>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//0-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Exterior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//1-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//2-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//3-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//4-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//5-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//6-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//7-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//8-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//9-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Restaurant]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//10-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//11-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Restaurant]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//12-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//13-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//14-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//15-1200x900.jpg]]></url>
+                <title><![CDATA[Room Interior]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/2//17-1200x900.jpg]]></url>
+                <title><![CDATA[Hotel Interior]]></title>
+            </photo>
+        </photos>
+        <descriptions>
+            <en>
+                <![CDATA[[hotel-description]This air-conditioned hotel comprises a total of 98 rooms spread over 6 floors. The hotel's lobby area has a 24-hour reception service, a bar, a safe and a currency exchange desk. In addition, there is a nightclub, a TV room, mobile network, public Internet and an air-conditioned, a good restaurant (with highchairs for children) all on offer for guests. The room and laundry services as well as the bicycle hire round off the facilities within the hotel. Those arriving by car may make use of the car park and a garage..[/hotel-description][room-description]The tasteful rooms come with an en suite bathroom with hairdryer, a direct dial telephone, Internet access and satellite/ cable TV. Facilities also include a minibar/ fridge, central air conditioning and heating, as well as a balcony and hire safe.[/room-description][additional-description]The stay is free for children should pay the supplement regime (breakfast, half board or full board) directly at the hotel, not being included in its reserve (Please, check dates). Should you have further questions on the applicable rates do not hesitate to contact the customer service department calling the number you will find in the  contact us  section of the website.[/additional-description][location]This hotel is located in the tourist friendly district of Pas de la Casa, at the heart of Andorra and offers fantastic views out over the mountains. Commercial areas with shops, boutiques, bars and restaurants are to be found in the near vicinity. A ski lift and public transport departs from just minutes from the hotel with Grandvalira ski area located very close by. The Himalaia Soldeu hotel is located in the centre of Soldeu, just 50m from the cable car, the nerve centre of Grandvalira, 6km from Canillo and 10km from the French border. The spa resort Caldea and commercial zones are just 20 minute's away. Its privileged location makes it the ideal base both in winter and summer, either to hit the slopes or set off on a hiking trail.[/location][getting-to-the-hotel]By road and motorway Spain: Madrid-Zaragoza-Lleida-Ponts-Andorra (619 Km) Barcelona-Andorra: - going through the tunnel of Cadí (198 Km + pay tolls) - going through Solsona (201 Km) - going through Cervera (220 Km) Lleida-Andorra (157 Km) Tarragona-Andorra por Tàrrega (237 Km) Girona-Olot-Puigcerdà-Andorra (216 Km) France: París-Toulouse-Foix-Ax les Thermes-Andorra (929 Km) Toulouse-Andorra (185 Km) Foix-Andorra (100 Km) Perpignan-Andorra (163 Km)  By plane Spain: Barcelona airport (Bus to Andorra) Girona airport (Bus to Andorra)  France: Toulouse airport (Bus to Andorra) Perpignan airport (Bus to Andorra)[/getting-to-the-hotel]]]></en>
+            <fr>
+                <![CDATA[[hotel-description]L'hôtel climatisé dispose d'un bâtiment principal de 6 étages avec en tout 98 chambres. Il est équipé d'un hall d'accueil avec une réception ouverte 24h/24h, un bureau de change, un ascenseur et un bar. Il comprend également une discothèque, une salle de télévision, un réseau de téléphone mobile, un accès Internet et un restaurant climatisé avec choix à la carte et chaises hautes pour les enfants. Le service de chambre et le service de blanchisserie ainsi qu'un service de location de vélos complètent les prestations. Des places de parking et un garage sont disponibles.[/hotel-description][room-description]Aménagées avec goût, les chambres sont équipées d'une salle de bain/WC, d'un sèche-cheveux, d'un téléphone avec ligne directe, de la télévision par câble et satellite et d'un accès Internet. Elles comprennent de plus un mini-bar/réfrigérateur, la climatisation avec réglage central, le chauffage central, un balcon et un coffre-fort.[/room-description][additional-description]Une piscine couverte, une piscine extérieure, un jacuzzi, un sauna, des massages une salle de fitness et billard/snooker sont à la disposition des hôtes.[/additional-description][location]L'hôtel est situé dans la localité touristique de Pas de la Casa, au coeur d'Andorre. Il offre une vue magnifique sur les montagnes. Des zones commerciales avec magasins, boutiques, bars et restaurants se trouvent à proximité. Les transports en commun sont à quelques minutes de marche seulement.[/location][getting-to-the-hotel]Par la route et autoroute Espagne: Madrid-Saragosse-Lleida-Ponts-Andorre (619 Km) Barcelone-Andorre: - En passant par le tunnel du Cadi (198 Km + péages payants) - En passant par Solsona (201 Km) - En passant par Cervera (220 Km) Lleida-Andorre (157 Km) Tarragone por-Andorre Tàrrega (237 Km) Girona-Olot-Puigcerdà-Andorre (216 Km) France: Paris-Toulouse-Foix-Ax les Thermes-Andorre (929 Km) Toulouse-Andorre (185 Km) Foix-Andorre (100 Km) Perpignan-Andorre (163 Km)  en avion Espagne: L'aéroport de Barcelone (Autobus à Andorre) L'aéroport de Gérone (Autobus à Andorre)  France: L'aéroport de Toulouse (Autobus à Andorre) L'aéroport de Perpignan (Autobus à Andorre)[/getting-to-the-hotel]]]></fr>
+            <de>
+                <![CDATA[[hotel-description]Das klimatisierte Hotel verfügt über ein 6 geschossiges Hauptgebäude mit insgesamt 98 Zimmern. Zur Ausstattung gehören eine Empfangshalle mit rund um die Uhr besetzter Rezeption, Hotelsafe, Wechselstube, Aufzug und einer Bar. Außerdem stehen den Gästen eine Disko, TV-Raum, Mobilfunknetz, öffentliches Internet und ein klimatisiertes à la carte Restaurant mit kindgerechten Hochstühlen zur Verfügung. Der Zimmer- und der Wäscheservice sowie ein Fahrradverleih runden das Angebot ab. Für Ihr Fahrzeug stehen eine Garage und ein Parkplatz bereit.[/hotel-description][room-description]Die geschmackvoll eingerichteten Zimmer sind mit einem Bad/WC, Haartrockner, Direktwahltelefon, Satelliten-/Kabel-TV und einem Internetzugang ausgestattet. Des Weiteren gehören eine Minibar/Kühlschrank, zentrale Klimaanlage, Zentralheizung, Balkon und ein Mietsafe zur Einrichtung.[/room-description][additional-description]Die Hotelanlage bietet den Gästen ein Hallenbad, Süßwasserpool, Whirlpool, Sauna, Massage, Fitnessstudio und Billard/Snooker an.[/additional-description][location]Das Hotel der gehobenen Mittelklasse liegt in der touristischen Ortschaft Pas de la Casa, im Herzen Andorras. Es bietet einen außergewöhnlich guten Ausblick auf die Berge. In der Umgebung des Hotels befinden sich Geschäftszonen mit Läden, Boutiquen, Bars und Restaurants. Auch der Skilift zum Skigebiet Grandvalira sowie Haltestellen für öffentliche Verkehrsmittel sind zu Fuß in wenigen Minuten zu erreichen.[/location][getting-to-the-hotel]Auf der Straße und Autobahn Spanien: Madrid-Zaragoza-Lleida-Ponts-Andorra (619 km) Barcelona-Andorra: - Gehen durch den Tunnel von Cadí (198 km + Pay-Maut) - Gehen durch Solsona (201 km) - Gehen durch Cervera (220 km) Lleida-Andorra (157 km) Tarragona-Andorra por Tàrrega (237 km) Girona-Olot-Puigcerdà-Andorra (216 km) Frankreich: Paris-Toulouse-Foix-Ax les Thermes-Andorra (929 km) Toulouse-Andorra (185 km) Foix-Andorra (100 km) Perpignan-Andorra (163 km)  Mit dem Flugzeug Spanien: Flughafen Barcelona (Bus nach Andorra) Flughafen Girona (Bus nach Andorra)  Frankreich: Toulouse Flughafen (Bus nach Andorra) Flughafen Perpignan (Bus nach Andorra)[/getting-to-the-hotel]]]></de>
+            <es>
+                <![CDATA[[hotel-description]Este hotel está climatizado y dispone de un edificio principal de seis plantas con un total de 98 habitaciones. Cuenta con un hall de entrada con ascensor, un área de recepción abierta las 24 horas, caja fuerte, servicio de cambio de divisa y un bar. Además, a disposición de los huéspedes hay una discoteca, una sala de televisión, red de telefonía móvil, conexión a Internet y un restaurante a la carta climatizado y con sillas altas para los niños. Para completar todas estas prestaciones, también dispone de servicio de habitaciones, de lavandería y de alquiler de bicicletas. Podrá aparcar su vehículo en un garaje o en un aparcamiento.[/hotel-description][room-description]Las habitaciones, decoradas y amuebladas con buen gusto, tienen baño con secador de pelo, teléfono de línea directa, conexión a Internet y televisión vía satélite y por cable. Además, todas están equipadas con minibar-nevera, aire acondicionado y calefacción centralizados, balcón y caja fuerte de alquiler.[/room-description][additional-description]La estancia de los niños es gratuita debiéndose abonar el suplemento de régimen (desayuno, media pensión o pensión completa) directamente en el hotel, al no estar incluido en su reserva (Consultar fechas). En caso de duda póngase en contacto con el servicio de atención al cliente. Los huéspedes tendrán a su disposición una piscina, una piscina cubierta, un jacuzzi, una sauna, servicio de masajes, un gimnasio y la posibilidad de jugar al billar.[/additional-description][location]Este hotel está situado en la localidad turística de Pas de la Casa, en el corazón de Andorra. Desde este hotel podrá disfrutar de unas preciosas vistas de las montañas. En los alrededores del hotel hay varias zonas comerciales con bares, tiendas, boutiques y restaurantes. A pocos minutos andando podrá encontrar un telesilla que le llevará a la estación de Grandvalira y servicio de transporte público.[/location][getting-to-the-hotel]Por carretera y autopista España: Madrid-Zaragoza-Lleida-Ponts-Andorra (619 Km) Barcelona-Andorra: - Pasando por el túnel del Cadí (198 Km + peajes de pago) - Pasando por Solsona (201 Km) - Pasando por Cervera (220 Km) Lleida-Andorra (157 Km) Tarragona-Andorra Por Tàrrega (237 Km) Girona-Olot-Puigcerdà-Andorra (216 Km) Francia: París-Toulouse-Foix-Ax-les-Thermes-Andorra (929 Km) Toulouse-Andorra (185 Km) Foix-Andorra (100 Km) Perpignan-Andorra (163 Km)  En avión España: El aeropuerto de Barcelona (bus hasta Andorra) El aeropuerto de Girona (bus hasta Andorra)  Francia: Toulouse aeropuerto (bus hasta Andorra) Aeropuerto de Perpignan (bus hasta Andorra)[/getting-to-the-hotel]]]></es>
+            <it>
+                <![CDATA[[hotel-description]Interamente climatizzato, l'albergo si sviluppa su 6 piani e dispone di un totale di 98 camere. È dotato di hall con reception (aperta 24 ore su 24), cassetta di sicurezza, sportello di cambio, ascensore e un bar. Mette inoltre a disposizione una discoteca, una sala TV e un ristorante à la carte climatizzato, con seggioloni per bambini. L'hotel prevede la possibilità di accedere ad Internet e gode di un'ottima ricezione per la telefonia mobile. Tra i servizi disponibili figurano il servizio in camera e il servizio lavanderia. È possibile noleggiare bicicletta. Le auto possono essere posteggiate nel parcheggio e nel garage.[/hotel-description][room-description]Le camere sono arredate con gusto. Dispongono di bagno/WC, asciugacapelli, telefono con linea diretta, TV via satellite/via cavo e accesso ad Internet. Sono inoltre dotate di minibar/frigorifero, climatizzatore e riscaldamento centralizzati, balcone e cassetta di sicurezza a pagamento.[/room-description][additional-description]L'offerta sportiva prevede una piscina al coperto, una piscina all'aperto d'acqua dolce, una vasca idromassaggio, un fitness center e la possibilità di giocare a biliardo/snooker.[/additional-description][location]Ubicato nella località turistica di Pas de la Casa, nel cuore delle Andorre, questo distinto hotel gode di una splendida vista sulle montagne circostanti. La zona circostante è ricca di aree commerciali con negozi, boutique, bar e ristoranti. Bastano pochi minuti a piedi per raggiungere le fermate dei mezzi pubblici, nonché l'area sciistica di Grandvalira con gli impianti di risalita. Colazione e cena vengono servite a buffet. L'offerta gastronomica prevede anche cucina dietetica e piatti speciali.[/location][getting-to-the-hotel]Getting There[/getting-to-the-hotel]]]></it>
+            <nl><![CDATA[]]></nl>
+        </descriptions>
+        <amenities>
+            <en><![CDATA[Disabled facilities - Car parking - Health spa - Wi-Fi internet in public areas]]></en>
+            <fr>
+                <![CDATA[Equipements pour personnes à mobilité réduite - Parking - Spa - Wi-Fi dans les lieux publics]]></fr>
+            <de><![CDATA[Behindertengerechte Einrichtung - Parkplatz - Kurort - Wi-Fi in öffentlichen Bereichen]]></de>
+            <es>
+                <![CDATA[Accesible para minusválidos - Parking para coches - Spa de bienestar - Wi-Fi en los espacios comunes]]></es>
+            <it><![CDATA[Servizi per disabili - Parcheggio - entro benessere - Wi-Fi negli spazi comuni]]></it>
+            <nl>
+                <![CDATA[Voorzieningen voor gehandicapten - Parkeergelegenheid - Health spa - Wi-Fi internet in openbare ruimtes]]></nl>
+        </amenities>
+    </hotel>
+    <hotel>
+        <id>4</id>
+        <name><![CDATA[Els Cims]]></name>
+        <address><![CDATA[4 Major - Pas de la Casa]]></address>
+        <city>
+            <en><![CDATA[Pas de la Casa]]></en>
+            <fr><![CDATA[Pas de la Casa]]></fr>
+            <de><![CDATA[Pas de la Casa]]></de>
+            <es><![CDATA[Pas de la Casa]]></es>
+            <it><![CDATA[Pas de la Casa]]></it>
+            <nl><![CDATA[Pas de la Casa]]></nl>
+        </city>
+        <country>
+            <en><![CDATA[Andorra]]></en>
+            <fr><![CDATA[Andorre]]></fr>
+            <de><![CDATA[Andorra]]></de>
+            <es><![CDATA[Andorra]]></es>
+            <it><![CDATA[Andorra]]></it>
+            <nl><![CDATA[Andorra]]></nl>
+        </country>
+        <cityid>10313</cityid>
+        <statename/>
+        <countryid>1</countryid>
+        <countrytwocharcode>AD</countrytwocharcode>
+        <postcode>AD200</postcode>
+        <longitude>1.7342264</longitude>
+        <latitude>42.5422964</latitude>
+        <stars>3</stars>
+        <phone>00376.855433</phone>
+        <fax>00376.856245</fax>
+        <thumbnail><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//2-70x70.jpg]]></thumbnail>
+        <photos>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//2-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//6-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//8-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//10-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//14-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//18-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//20-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//21-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+            <photo>
+                <url><![CDATA[http://media.amoma.com/medias/hotels/Hotels/4//28-1200x900.jpg]]></url>
+                <title><![CDATA[]]></title>
+            </photo>
+        </photos>
+        <descriptions>
+            <en>
+                <![CDATA[[hotel-description]The Hotel is situated in the commercial centre of Pas de la Casa, 100mts from the ski station of Grand Valira and 350mts away from the sports centre, with car park and where there is a covered swimming pool, gymnasium and sauna. The Hotel was partially renovated in 2009 and has a buffet restaurant (drinks not included), a cafeteria with free WIFI connection, store room for skis (free of charge) and there is a laundry service available. There are also rooms available for persons with reduced mobility. Domestic animals are allowed (with charge paid direct to the Hotel).[/hotel-description][room-description]The Hotel has 42 rooms, all are exterior and have a complete bathroom (bath or shower) with hair dryer, satellite TV, direct telephone line and safety deposit box (with charge paid directly to the Hotel). Cots can be provided with no extra charge, but must be booked.[/room-description][location]Androrra is known for its extensive offer of duty free shops; enjoy a walk through its busy streets , there is something for every ones taste, there are also many churches and monuments of interest to visit. There is plenty to do either in winter or summer and the gastronomical delights are plentiful, such as grilled meats, typical sausages or trout fresh from the mountain rivers.[/location][getting-to-the-hotel]From Spain.Cross the border and hed for Andorra La Vella. Head north. Pas de la Casa is on the limit of the French boarder, near to the Graanvalira ski slopes. From France: Go over the French boarder. Pas de la Casa is the first town.[/getting-to-the-hotel]]]></en>
+            <fr>
+                <![CDATA[[hotel-description]Cet hôtel est le point de référence du tourisme d'hiver, grâce à sa situation privilégiée au pied des pistes. Vues imprenables sur la montagne. Ses 40 chambres disposent des prestations et des services nécessaires pour que les clients passent un séjour agréable. Accès Internet Wi-Fi. Cet hôtel est le point de référence du tourisme d'hiver, grâce à sa situation privilégiée au pied des pistes. Vues imprenables sur la montagne. Ses 40 chambres disposent des prestations et des services nécessaires pour que les clients passent un séjour agréable. Accès Internet Wi-Fi. [/hotel-description][room-description]L’hôtel a 42 chambres, toutes extérieures et elles ont une salle de bain complète (baignoire ou douche) avec sèche-cheveux, TV satellite, ligne téléphonique directe et coffre-fort (avec supplément à payer directement à l’hôtel). Berceaux peut être fournit sans supplément, mais doivent être réservés.[/room-description][additional-description]Les hôtes peuvent composer leur petit-déjeuner au buffet.[/additional-description][location]Andorra est connu pour sa grande offre de boutiques détaxées, profiter d’une balade dans ces rues animées, il y en a pour tous les goûts, il y a aussi plein d’églises et monuments d’intérêt à visiter. Il y a plein de choses à faire tant en été qu’en hiver et les délices gastronomiques sont nombreux, tels que grillades, charcuterie typique et truites fraîches des hautes rivières.[/location][getting-to-the-hotel]De l’Espagne, traversez la frontière et allez vers Andorra la Vella. Allez vers le nord. Pas de la Casa est à la limite de la frontière française, près des pistes de ski Granvalira. Depuis la France, allez vers la frontière. Pas de la Casa est la première village.[/getting-to-the-hotel]]]></fr>
+            <de>
+                <![CDATA[[hotel-description]Ideale Unterkunft zum Skifahren, da die Pisten nur ein paar Meter vom Hotel entfernt liegen. Besonders hervorzuheben ist der Blick auf den Berg. Seine 40 Zimmerverfügen über alle notwendigen Einrichtungen und Dienstleistungen, damit die Gäste hier einen angenehmen Aufenthalt haben. Es verfügt über einen Bereich zum Aufbewahren der Skis. -Ideale Unterkunft zum Skifahren, da die Pisten nur ein paar Meter vom Hotel entfernt liegen. Besonders hervorzuheben ist der Blick auf den Berg. Seine 40 Zimmerverfügen über alle notwendigen Einrichtungen und Dienstleistungen, damit die Gäste hier einen angenehmen Aufenthalt haben. Es verfügt über einen Bereich zum Aufbewahren der Skis. -[/hotel-description][room-description]Das Hotel bietet 42 Zimmer, die alle nach außen orientiert sind und über ein komplettes Badezimmer (Badewanne oder Dusche) mit Haartrockner, Sat-TV, Direktwahltelefon und Safe (gegen eine direkt im Hotel bezahlbare Gebühr) verfügen. Kinderbetten können ohne Aufpreis zur Verfügung gestellt werden, eine Buchung ist erforderlich.[/room-description][additional-description]Die Gäste können sich ihr Frühstück an einem Buffet zusammenstellen.[/additional-description][location]Andorra ist für sein umfangreiches Angebot an zollfreien Geschäften bekannt. Genießen Sie einen Spaziergang durch die belebten Straßen, es wird für jeden Geschmack etwas geboten. Auch viele Kirchen und Denkmäler laden zu einem Besuch ein. Es gibt viel zu unternehmen, im Winter wie im Sommer, und zahlreiche gastronomische Köstlichkeiten werden angeboten, wie gegrilltes Fleisch, typische Wurstwaren oder frische Forellen aus den Gebirgsflüssen.[/location][getting-to-the-hotel]Aus Spanien: Überqueren Sie die Grenze und fahren Sie Richtung Andorra La Vella. Fahren Sie Richtung Norden. Pas de la Casa liegt an der Grenze zu Frankreich, in der Nähe der Skipisten Grand Valira. Aus Frankreich: Überqueren Sie die Französische Grenze. Pas de la Casa ist die erste Stadt.[/getting-to-the-hotel]]]></de>
+            <es>
+                <![CDATA[[hotel-description]Hotel situado en el centro comercial del Pas de la Casa, a tan solo 100 metros de la estación de ski GrandValira y a 350 metros del centro deportivo de Pas de la Casa. 45 habitaciones equipadas con cuarto de baño completo, secador de pelo, teléfono y TV. Habitaciones adaptadas para minusválidos.[/hotel-description][room-description]El hotel dispone de 42 habitaciones , todas ellas exteriores y equipadas con cuarto de baño (ducha o bañera ) , secador de pelo , televisión vía satélite , teléfono directo y caja fuerte (con cargo pago directo) . Cuna gratuita previa reserva.[/room-description][additional-description]Todas las mañanas se ofrece desayuno en forma de bufet.[/additional-description][location]Andorra es conocida por su extensa oferta de tiendas libres de impuestos para todos los gustos. Disfrute de un paseo por la calles de la capital que rebosan de dinamismo y actividad comercial . Visite las numerosas iglesias y capillas de estilo románico repartidas por todo el territorio andorrano asi como los museos . Podrá disfrutar tanto en invierno como en verano , de todas las actividades que ofrecen las 3 estaciones de esqui del pais . Tampoco debemos olvidar la gastronomia tipica andorrana : carnes a la brasa , embutidos tipicos, truchas de los rios de alta montaña .[/location][getting-to-the-hotel]Como llegar : desde España pasando la frontera dirigirse a la capital Andorra La Vella y desde alli dirección norte : Encamp , Canillo, Francia . Pas de la Casa está situado al limite con la frontera francesa , al lado de las pistas de Granvalira . Desde Francia al pasar la frontera francesa Pas de la Casa es el primer núcleo urbano que nos encontramos .[/getting-to-the-hotel]]]></es>
+            <it>
+                <![CDATA[[hotel-description]Hotel posizionato ai piedi delle piste, che attrae ogni stagione numerosi appassionati degli sport invernali di ambiente familiare e sportivo. Sono da sottolineare le viste alla montagna. Le sue 40 camere dell'hotel offrono un gradevole ambiente per riposare dopo una giornata piena di emozioni. Si offrono escursioni guidate. -Hotel posizionato ai piedi delle piste, che attrae ogni stagione numerosi appassionati degli sport invernali di ambiente familiare e sportivo. Sono da sottolineare le viste alla montagna. Le sue 40 camere dell'hotel offrono un gradevole ambiente per riposare dopo una giornata piena di emozioni. Si offrono escursioni guidate. -[/hotel-description][room-description]Le camere sono arredate in modo funzionale. Dispongono di bagno, asciugacapelli, telefono con linea diretta, TV via satellite/via cavo, letto king-size, riscaldamento centralizzato e cassetta di sicurezza a pagamento.[/room-description][additional-description]La colazione viene servita a buffet.[/additional-description][location]Questo attraente hotel si presenta come il luogo ideale dove poter trascorrere le vacanze durante tutte le stagioni dell'anno. Durante i mesi invernali, grazie alla sua meravigliosa posizione, è particolarmente indicato per gli appassionati dello sci. Nei mesi estivi è l'ideale per chi ama la pesca, l'equitazione e le escursioni a piedi. Nelle immediate vicinanze sono disponibili svariate possibilità di shopping, bar, ristoranti e movimentati locali notturni. I mezzi di trasporto pubblico sono comodamente raggiungibili a piedi.[/location]]]></it>
+            <nl><![CDATA[]]></nl>
+        </descriptions>
+        <amenities>
+            <en><![CDATA[Pets allowed - 24 hour front desk - Elevators - Horseback riding]]></en>
+            <fr><![CDATA[Animaux autorisés - Réception 24h/24 - Ascenseurs - Equitation]]></fr>
+            <de><![CDATA[Haustiere gestattet - 24 Stunden Rezeption - Aufzüge - Pferdereiten]]></de>
+            <es><![CDATA[Animales domésticos permitidos - Recepción 24 horas - Ascensores - Montar a caballo]]></es>
+            <it><![CDATA[Si accettano animali - Reception 24 ore - Ascensore - Equitazione]]></it>
+            <nl><![CDATA[Huisdieren toegestaan - 24-uurs receptie - Liften - Paardrijden]]></nl>
+        </amenities>
+    </hotel>
+</hotels>
